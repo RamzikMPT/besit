@@ -1,0 +1,16 @@
+C:\Users\Даниил Селезнев\source\repos\sextortiki\bin\Debug\sextortiki.exe.config
+C:\Users\Даниил Селезнев\source\repos\sextortiki\bin\Debug\sextortiki.exe
+C:\Users\Даниил Селезнев\source\repos\sextortiki\bin\Debug\sextortiki.pdb
+C:\Users\Даниил Селезнев\source\repos\sextortiki\obj\Debug\sextortiki.csproj.AssemblyReference.cache
+C:\Users\Даниил Селезнев\source\repos\sextortiki\obj\Debug\sextortiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даниил Селезнев\source\repos\sextortiki\obj\Debug\sextortiki.csproj.CoreCompileInputs.cache
+C:\Users\Даниил Селезнев\source\repos\sextortiki\obj\Debug\sextortiki.exe
+C:\Users\Даниил Селезнев\source\repos\sextortiki\obj\Debug\sextortiki.pdb
+C:\Users\79663\source\repos\sextortiki\bin\Debug\sextortiki.exe.config
+C:\Users\79663\source\repos\sextortiki\bin\Debug\sextortiki.exe
+C:\Users\79663\source\repos\sextortiki\bin\Debug\sextortiki.pdb
+C:\Users\79663\source\repos\sextortiki\obj\Debug\sextortiki.csproj.AssemblyReference.cache
+C:\Users\79663\source\repos\sextortiki\obj\Debug\sextortiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\79663\source\repos\sextortiki\obj\Debug\sextortiki.csproj.CoreCompileInputs.cache
+C:\Users\79663\source\repos\sextortiki\obj\Debug\sextortiki.exe
+C:\Users\79663\source\repos\sextortiki\obj\Debug\sextortiki.pdb
